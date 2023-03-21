@@ -18,7 +18,3 @@ def exists_word(word, instance):
         if len(values["ocorrencias"]) > 0:
             data.append(values)
     return data
-
-
-def search_by_word(word, instance):
-    """Aqui irá sua implementação"""
